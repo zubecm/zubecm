@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zubecm
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on EPAM
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on any team for an internship
 - 📫 How to reach me mikitazubets@gmail.com
 
 <!---
